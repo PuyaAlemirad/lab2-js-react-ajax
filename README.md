@@ -2,9 +2,6 @@
 
 Ni ska skapa en webbapplikation där man kan spara sina favoritböcker. Laborationen ska utföras två och två. Syftet är att träna på DOM-manipulation och AJAX med JavaScript och React.
 
-#### Gist-exempel för hur man kan använda ```localStorage```
-https://gist.github.com/thorich/eae6a813c958f5286dc5b6aa1dd24363
-
 ### Uppgiften
 
 Ni ska göra en webbapplikation som visar en lista med böcker. Till er hjälp har ni ett API, med dokumentation här: https://www.forverkliga.se/JavaScript/api/crud.php
